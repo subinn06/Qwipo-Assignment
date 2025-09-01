@@ -89,3 +89,7 @@ Subin A
 Assignment project for Qwipo Interview
 
 ---
+
+### Deployment Note
+- Backend: [Render](https://qwipo-assignment-ykby.onrender.com) (free tier, DB resets after redeploys)  
+- Frontend: [Vercel](https://qwipo-assignment-tdva.vercel.app)  
